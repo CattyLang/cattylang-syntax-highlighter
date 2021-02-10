@@ -1,18 +1,18 @@
 
 /*
- * Syntax Highlighting Stylesheet for Catlang.
+ * Syntax Highlighting Stylesheet for CattyLang.
  * Copyright ©2021 Yiğit Cemal Öztürk. All rights reserved.
  *
  * /
 
 @charset "utf-8";
 
-code.catlang-highlighted
+code.cattylang-highlighted
 {
   
 }
 
-.keyword {
+code.cattylang-highlighted .keyword {
   color: #0000ff;
 }
 
