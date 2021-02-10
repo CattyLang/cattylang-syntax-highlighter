@@ -1,2 +1,2 @@
-# catlang-syntax-highlighter
-Syntax highlighting for CatLang
+# cattylang-syntax-highlighter
+Syntax highlighting for CattyLang
